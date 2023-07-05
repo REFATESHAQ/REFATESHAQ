@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=refateshaq&show_icons=true&locale=en&layout=compact" alt="refateshaq" /></p>
 
@@ -40,7 +40,7 @@ The secret behind the PIDC-NN is that can eliminate the problem of overfitting a
 
 ![Canser](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/67ce89d4-0dcf-44cc-9374-bdfa131da281)
 
-![1-1](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/da11367f-6a09-48dd-abc5-6ca1bf9731ea)
+![Untitled-3](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/21609d96-9f73-49c5-b92e-62de8c979335)
 
 ![PIDC-NN_MinerNet-Pro](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/9300f582-22a6-46a5-a07c-e1297754d844)
 
