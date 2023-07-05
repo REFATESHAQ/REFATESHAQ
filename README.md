@@ -32,11 +32,11 @@
 
 3) The proposed PIDC-NN architecture was studied at  different values of gain coefficients, i.e., KP, KI, and KD; sampling time (dt); and arbitrary value (AV). A comparison between the PIDC-NN architecture and state-of-the-art  CNN models is also presented.  
 
-I have developed this algorithm for a Coal Preparation Plant in order to distinguish between coal and gangue; however,  I want to extend this work to include lung cancer and breast cancer. My aim is to collect Chest Computerised Tomography (CT) Images in addition to Normal and Abnormal Mammogram Images. Next, these images are used as the data inputs to PIDC-NN (MinerNet). 
+I have developed this algorithm for a Coal Preparation Plant in order to distinguish between coal and gangue; however,  I want to extend this work to include Breast Cancer and Lung Cancer. My aim is to collect Normal and Abnormal Mammogram Images of Breast, in addition to Chest Computerised Tomography (CT) Images. Next, these images are used as the data inputs to PIDC-NN (MinerNet). 
 
-To be honest with you, I have started this project and the results of experiments revealed that the proposed method can provide appealing results and be directly applied to cancer classification.
+To be honest with you, I have started this project alone and the results of experiments revealed that the proposed method can provide appealing results and can be directly applied to cancer classification.
 
-The secret behind the PIDC-NN is that can eliminate the problem of overfitting and irregular oscillation during the training process. Moreover, PIDC-NN can learn faster than CNNS.  
+The secret behind the PIDC-NN (MinerNet) is that can eliminate the problem of overfitting and irregular oscillation during the training process. Moreover, PIDC-NN can learn faster than CNNS.  
 
 ![Untitled-3](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/963741e4-95a4-4251-b04d-1a798480a25e)
 
