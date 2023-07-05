@@ -40,7 +40,7 @@ The secret behind the PIDC-NN is that can eliminate the problem of overfitting a
 
 ![Canser](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/67ce89d4-0dcf-44cc-9374-bdfa131da281)
 
-![1-1](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/93869098-272e-4ab1-a956-8e3642b47d85)
+![1-1](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/da11367f-6a09-48dd-abc5-6ca1bf9731ea)
 
 ![PIDC-NN_MinerNet-Pro](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/9300f582-22a6-46a5-a07c-e1297754d844)
 
