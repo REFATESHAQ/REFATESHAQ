@@ -38,9 +38,9 @@ To be honest with you, I have started this project and the results of experiment
 
 The secret behind the PIDC-NN is that can eliminate the problem of overfitting and irregular oscillation during the training process. Moreover, PIDC-NN can learn faster than CNNS.  
 
-![Canser](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/67ce89d4-0dcf-44cc-9374-bdfa131da281)
+![Untitled-3](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/963741e4-95a4-4251-b04d-1a798480a25e)
 
-![Untitled-3](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/21609d96-9f73-49c5-b92e-62de8c979335)
+![Canser](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/f7dae413-b3a5-4d0a-ade9-735fff2fd7b4)
 
 ![PIDC-NN_MinerNet-Pro](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/9300f582-22a6-46a5-a07c-e1297754d844)
 
