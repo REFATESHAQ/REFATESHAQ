@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=refateshaq" alt="refateshaq" /></a> </p>
 
-- 🔭 I’m currently self-employed [PIDC-NN (MinerNet))](https://doi.org/10.36227/techrxiv.23266301.v2)
+- 🔭 I’m currently self-employed, see my achievement [PIDC-NN (MinerNet))](https://doi.org/10.36227/techrxiv.23266301.v2) Also, you can see my works [ORCID](https://orcid.org/0000-0002-6448-4054)  
 
 <h3 align="left">Connect with me:</h3>
 
 [Mr. REFAT ESHAQ](mailto:fs18050005@cumt.edu.cn?subject=[GitHub]%20Source%20Han%20Sans)
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="" alt="solidworks" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=refateshaq&show_icons=true&locale=en&layout=compact" alt="refateshaq" /></p>
 
