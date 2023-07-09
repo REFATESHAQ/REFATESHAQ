@@ -32,7 +32,7 @@
 
 <h1 align="center">Future Work</h1>
 
-I have developed these two algorithms (PIDC-NN_MinerNet) and (PIDC-NN_MinerNet) for a Coal Preparation Plant in order to distinguish between coal and gangue; however,  I want to extend this work to include Breast Cancer and Lung Cancer. My aim is to collect Normal and Abnormal Mammogram Images of Breast, in addition to Chest Computerised Tomography (CT) Images. Next, these images are used as the data inputs to PIDC-NN (MinerNet). 
+I have developed these two algorithms PIDC-NN (MinerNet) and PIDC-NN (MinerNet-Pro) for a Coal Preparation Plant in order to distinguish between Coal and Gangue Infrared Images; however,  I want to extend this work to include Breast Cancer and Lung Cancer. My aim is to collect Normal and Abnormal Mammogram Images of the Breast, in addition to Chest Computerised Tomography (CT) Images. Next, these images are used as the data inputs to PIDC-NN (MinerNet). 
 
 To be honest with you, I have started this project alone and the results of experiments revealed that the proposed method can provide appealing results and can be directly applied to cancer classification.
 
