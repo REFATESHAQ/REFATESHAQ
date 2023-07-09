@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=refateshaq&" alt="refateshaq" /></p>
 
-<h1 align="center">Future Work</h1>
+<h1 align="center">Achievements</h1>
 
  I have created a new algorithm, namely Proportional–Integral–Derivative–Cumulative  Neural Network (PIDC-NN), also called MinerNet. This algorithm work based on the PID controller that was created by the inventor Elmer Sperry in 1910. In  summary, My major contributions  are threefold,  as follows:
  
@@ -30,7 +30,9 @@
 
 3) The proposed PIDC-NN architecture was studied at  different values of gain coefficients, i.e., KP, KI, and KD; sampling time (dt); and arbitrary value (AV). A comparison between the PIDC-NN architecture and state-of-the-art  CNN models is also presented.  
 
-I have developed this algorithm for a Coal Preparation Plant in order to distinguish between coal and gangue; however,  I want to extend this work to include Breast Cancer and Lung Cancer. My aim is to collect Normal and Abnormal Mammogram Images of Breast, in addition to Chest Computerised Tomography (CT) Images. Next, these images are used as the data inputs to PIDC-NN (MinerNet). 
+<h1 align="center">Future Work</h1>
+
+I have developed these two algorithms (PIDC-NN_MinerNet) and (PIDC-NN_MinerNet) for a Coal Preparation Plant in order to distinguish between coal and gangue; however,  I want to extend this work to include Breast Cancer and Lung Cancer. My aim is to collect Normal and Abnormal Mammogram Images of Breast, in addition to Chest Computerised Tomography (CT) Images. Next, these images are used as the data inputs to PIDC-NN (MinerNet). 
 
 To be honest with you, I have started this project alone and the results of experiments revealed that the proposed method can provide appealing results and can be directly applied to cancer classification.
 
