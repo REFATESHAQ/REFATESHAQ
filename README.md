@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=refateshaq" alt="refateshaq" /></a> </p>
 
-- 🔭 I’m currently self-employed, see my achievement [PIDC-NN (MinerNet)](https://doi.org/10.36227/techrxiv.23266301.v2) Also, you can see my works [ORCID](https://orcid.org/0000-0002-6448-4054)  
+- 🔭 I’m currently self-employed, see my achievement [PIDC-NN (MinerNet)](https://doi.org/10.36227/techrxiv.23266301.v3). Also, you can see my works [ORCID](https://orcid.org/0000-0002-6448-4054)  
 
 <h3 align="left">Connect with me:</h3>
 
@@ -28,7 +28,9 @@
 
 2) The method was evaluated on coal and gangue infrared images. The results showed that the proposed PIDC-NN architecture produces perceptually appealing results in comparison to those produced by the prevalent CNNs. Additionally, it is worth noting that the proposed PIDC algorithm is highly efficient and shows encouraging performance in decreasing the error of the batch norm method while preserving image information well during feature extraction processes. In addition, the proposed method provides both easy and resilient control for ANN performance. 
 
-3) The proposed PIDC-NN architecture was studied at  different values of gain coefficients, i.e., KP, KI, and KD; sampling time (dt); and arbitrary value (AV). A comparison between the PIDC-NN architecture and state-of-the-art  CNN models is also presented.  
+3) The proposed PIDC-NN architecture was studied at  different values of gain coefficients, i.e., KP, KI, and KD; sampling time (dt); and arbitrary value (AV). A comparison between the PIDC-NN architecture and state-of-the-art  CNN models is also presented.
+
+#### To read and download the article, kindly click here [PIDC-NN (MinerNet)](https://doi.org/10.36227/techrxiv.23266301.v3).
 
 <h1 align="center">Future Work</h1>
 
