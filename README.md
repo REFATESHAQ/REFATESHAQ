@@ -42,8 +42,6 @@ The secret behind the PIDC-NN (MinerNet) is that can eliminate the problem of ov
 
 <img src="https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/963741e4-95a4-4251-b04d-1a798480a25e" alt="solidworks" width="500" height="500"/>
 
-![Untitled-3](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/963741e4-95a4-4251-b04d-1a798480a25e)
-
 ![Canser](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/f7dae413-b3a5-4d0a-ade9-735fff2fd7b4)
 
 ![PIDC-NN_MinerNet-Pro](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/9300f582-22a6-46a5-a07c-e1297754d844)
