@@ -12,7 +12,7 @@
 [Mr. REFAT ESHAQ](mailto:fs18050005@cumt.edu.cn?subject=[GitHub]%20Source%20Han%20Sans)
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/a1a50403-5d29-47a5-803b-54c2a8eaced1" alt="solidworks" width="80" height="80"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/a1a50403-5d29-47a5-803b-54c2a8eaced1" alt="solidworks" width="80" height="80"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=refateshaq&show_icons=true&locale=en&layout=compact" alt="refateshaq" /></p>
 
