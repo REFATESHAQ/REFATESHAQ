@@ -34,16 +34,7 @@
 
 <h1 align="center">Future Work</h1>
 
-I have developed these two algorithms PIDC-NN (MinerNet) and PIDC-NN (MinerNet-Pro) for a Coal Preparation Plant in order to distinguish between Coal and Gangue Infrared Images; however,  I want to extend this work to include Breast Cancer and Lung Cancer. My aim is to collect Normal and Abnormal Mammogram Images of the Breast, in addition to Chest Computerised Tomography (CT) Images. Next, these images are used as the data inputs to PIDC-NN (MinerNet). 
 
-To be honest with you, I have started this project alone and the results of experiments revealed that the proposed method can provide appealing results and can be directly applied to cancer classification.
-
-The secret behind the PIDC-NN (MinerNet) is that can eliminate the problem of overfitting and irregular oscillation during the training process. Moreover, PIDC-NN can learn faster than CNNS.  
-
-
-![Canser](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/f7dae413-b3a5-4d0a-ade9-735fff2fd7b4)
-
-![PIDC-NN_MinerNet-Pro](https://github.com/REFATESHAQ/REFATESHAQ/assets/48349737/9300f582-22a6-46a5-a07c-e1297754d844)
 
 
 
