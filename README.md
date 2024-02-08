@@ -33,7 +33,7 @@
 #### To read and download the article, kindly click here [PIDC-NN (MinerNet)](https://doi.org/10.36227/techrxiv.23266301.v3).
 
 <h1 align="center">Future Work</h1>
-
+I don't have a specific idea but my talent is that I'm a problem solver. I love all the science especially those that focus on the artificial neural network to solve specific problems
 
 
 
