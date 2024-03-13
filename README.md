@@ -20,20 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=refateshaq&" alt="refateshaq" /></p>
 
-<h1 align="center">Achievements</h1>
 
- I have created a new algorithm, namely Proportional–Integral–Derivative–Cumulative  Neural Network (PIDC-NN), also called MinerNet. This algorithm work based on the PID controller that was created by the inventor Elmer Sperry in 1910. In  summary, My major contributions  are threefold,  as follows:
- 
-1)  A novel deep learning algorithm is proposed by introducing a PIDC algorithm and an ANN algorithm. To the best of my knowledge, I am the first to create a PIDC  algorithm, which is a completely new design in both the automatic control and deep learning fields. This is the first exploration of the potential of PIDC technology for image classification tasks. 
 
-2) The method was evaluated on coal and gangue infrared images. The results showed that the proposed PIDC-NN architecture produces perceptually appealing results in comparison to those produced by the prevalent CNNs. Additionally, it is worth noting that the proposed PIDC algorithm is highly efficient and shows encouraging performance in decreasing the error of the batch norm method while preserving image information well during feature extraction processes. In addition, the proposed method provides both easy and resilient control for ANN performance. 
-
-3) The proposed PIDC-NN architecture was studied at  different values of gain coefficients, i.e., KP, KI, and KD; sampling time (dt); and arbitrary value (AV). A comparison between the PIDC-NN architecture and state-of-the-art  CNN models is also presented.
-
-#### To read and download the article, kindly click here [PIDC-NN (MinerNet)](https://doi.org/10.36227/techrxiv.23266301.v3).
-
-<h1 align="center">Future Work</h1>
-I don't have a specific idea but my talent is that I'm a problem solver. I love all the science especially those that focus on the artificial neural network to solve specific problems
 
 
 
